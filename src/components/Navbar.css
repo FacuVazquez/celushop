@@ -1,8 +1,6 @@
-.button-container{
+.navbar-container {
   width: 100%;
   text-align: center;
-}
-
-.button {
   margin-top: 20px;
+  margin-bottom: 50px;
 }

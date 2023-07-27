@@ -1,0 +1,10 @@
+.table-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.centered-table {
+  border-spacing: 10px;
+}
